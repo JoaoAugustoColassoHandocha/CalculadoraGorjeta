@@ -1,6 +1,17 @@
-# Calculadora Gorjeta
- Calculadora de gorjeta em **HTML, CSS e JAVASCRIPT**
+# Tip Calculator
 
-Para acessar o site [Clique aqui](https://joaoaugustocolassohandocha.github.io/CalculadoraGorjeta/)
+ The website consists of a tip calculator, displaying the payment amount for the tip, using the total total = (bill * serviceQual) / numOfPeople.
 
-![image](https://github.com/JoaoAugustoColassoHandocha/CalculadoraGorjeta/assets/163477998/f9baef6d-7347-4831-a79d-e854d996ee1d)
+ Languages ​​used:
+
+ - **HTML**
+ - **CSS**
+ - **JAVASCRIPT**
+
+#
+
+To access the website [Click here](https://joaoaugustocolassohandocha.github.io/CalculadoraGorjeta/)
+
+#
+
+![recording-2025-04-20-03-15-53-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e028051d-837f-48b6-93b7-2095bf3b3c5d)
